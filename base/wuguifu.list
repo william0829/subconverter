@@ -1,2 +1,3 @@
 # 乌龟服亚服
+IP-CIDR,0.0.0.0/8,no-resolve
 DOMAIN,logon.turtle-server-cn.kz
